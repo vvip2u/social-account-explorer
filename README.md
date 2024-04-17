@@ -6,6 +6,11 @@
 ## 1. Introduction
 This project is a social platform auto-upload tools, which can help you to upload your video to social platform automatically.
 
+This tools is based on `NodeJS`.
+
+Thanks for @dreammis provides the original python version. [Python Version](https://github.com/dreammis/social-auto-upload)
+
+
 ## 2. Platform Support
 - Chinese Media Social Platform
   - [x] 抖音
