@@ -38,11 +38,33 @@ node src/douyin/douyin_uploader.js
 ```
 
 ## File Structure
-- Directory【config】: 
+```
+--config
+  |--douyin
+  |   |---auth.json
+  |--wx
+  |   |---auth.json
+--data
+  |--videos
+      |-- xxx.mp4
+--src
+  |--utils
+  |   |--auth_utils.js
+  |   |--datetime_utils.js
+  |   |--env_utils.js
+  |   |--switch.js
+  |--douyin
+  |   |--douyin_uploader.js
+  |--wx
+  |   |--wx_uploader.js
+```
+
+
+- Directory【config】: 目录自行创建
 
 `auth.json` file is stored under `config/douyin` and `config/wx` directory
 
-- Directory【data】:
+- Directory【data】: 目录自行创建
 
 all video files which need to be uploaded are stored under `data/videos` directory
 
