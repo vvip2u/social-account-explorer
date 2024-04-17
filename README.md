@@ -1,6 +1,6 @@
 # Social-Account-Explorer
-=======================
-Social Platform Auto-Upload Tools
+
+> Social Platform Auto-Upload Tools
 
 
 ## 1. Introduction
