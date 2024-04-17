@@ -8,7 +8,7 @@ This project is a social platform auto-upload tools, which can help you to uploa
 
 This tools is based on `NodeJS`.
 
-Thanks for @dreammis provides the original python version. [Python Version](https://github.com/dreammis/social-auto-upload)
+Thanks for [@dreammis](https://github.com/dreammis) provides the original python version. [Python Version](https://github.com/dreammis/social-auto-upload)
 
 
 ## 2. Platform Support
